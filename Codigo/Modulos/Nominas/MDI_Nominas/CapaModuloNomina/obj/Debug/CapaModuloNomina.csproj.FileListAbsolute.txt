@@ -1,0 +1,6 @@
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\bin\Debug\CapaModuloNomina.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\bin\Debug\CapaModuloNomina.pdb
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.dll
+C:\Users\Alejandro\Desktop\Analisis Final\PrototipoEF-09011976\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.pdb
